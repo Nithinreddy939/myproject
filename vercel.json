@@ -15,10 +15,9 @@
       }
     }
   ],
-  "env": {
-    "scripts": {
-      "build": "[my-framework] build --output public"
-    }
+  
+  "scripts": {
+    "build": "[my-framework] build --output public"
   },
   "routes": [
     {
