@@ -15,10 +15,7 @@
       }
     }
   ],
-  
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  },
+
   "routes": [
     {
       "src": "/static/(.*)",
